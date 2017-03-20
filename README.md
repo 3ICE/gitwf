@@ -1,1 +1,1 @@
-Hi
+This branch has no features. It sucks.
